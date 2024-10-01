@@ -2,6 +2,9 @@
 
 This GitHub repository contains a simple counter application built using the [Flet](https://flet.dev/) library, a Python library for building interactive web, desktop, and mobile apps. The application allows users to increment and decrement a counter, with an interactive user interface.
 
+![image](https://github.com/user-attachments/assets/f8c176e8-3fc3-449f-ae91-924d0fc54462)
+
+
 ## Features
 
 - **Increment Counter:** Increases the counter by 1 when clicking the "+" button.
